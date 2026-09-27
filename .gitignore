@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+
+# Local authentication and target configuration
+storage_state.json
+luna_config.json
+*.password
+*.secret
+.env
+.env.*
+
+# Runtime output
+luna_term.log*
+last_output.txt
+.luna-upload-*/
+
+# Local transfer/benchmark artifacts
+*.bin

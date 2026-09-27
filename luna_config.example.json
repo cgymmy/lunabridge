@@ -1,0 +1,10 @@
+{
+  "base_url": "https://jump.example.com:1111",
+  "asset_id": "replace-with-asset-uuid",
+  "org_id": "replace-with-organization-uuid",
+  "sftp_nav": [
+    "DEFAULT",
+    "asset-group",
+    "target-host"
+  ]
+}
